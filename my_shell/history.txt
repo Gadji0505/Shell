@@ -1,0 +1,13 @@
+help
+-help
+-h
+h
+history
+help
+history
+clear
+history
+ bvnhvhv
+echo 321wewe
+\e $PATH
+Выфполни бинарник\
