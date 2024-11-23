@@ -11,3 +11,18 @@ history
 echo 321wewe
 \e $PATH
 Выфполни бинарник\
+help
+\v
+-h
+h
+help
+\e 123
+\e d
+ls
+\e $PATH
+SIGHUP
+help
+\e USER
+\l /dev/sda
+history
+clear
